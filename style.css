@@ -676,9 +676,11 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
+p, q, cite {
+    font-size: 16px;
+    color:rgb(87, 87, 87);
 }
+
 
 .tight-width-whitespace {
     max-width: 600px;
